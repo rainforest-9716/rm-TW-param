@@ -1,0 +1,11 @@
+! momo購物網 https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=11633866&cid=recitri&oid=BfG&ctype=B&recomd_id=rgc-rl2t_normal_1721940730_435533039
+$removeparam=cid
+$removeparam=ctype
+$removeparam=oid
+$removeparam=recomd_id
+
+! kobo 購物 https://www.rakuten.com.tw/shop/no1mobile/product/d011131/?scid=rafp-b118&utm_source=biggo&utm_medium=rafp-b118&utm_campaign=normal&gid=T3B96pABVIisQzBMUx6n&pr=420457e88ecc9146&ts=1721921000676&aff_click_id=11298aa9-59e3-4a35-aa24-b41c05ea2672
+$removeparam=l-id
+$removeparam=gid
+$removeparam=pr
+$removeparam=ts
