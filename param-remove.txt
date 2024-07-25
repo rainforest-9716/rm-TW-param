@@ -1,3 +1,6 @@
+! Title: Remove param TW
+! Expires: 7 days
+
 ! momo購物網 https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=11633866&cid=recitri&oid=BfG&ctype=B&recomd_id=rgc-rl2t_normal_1721940730_435533039
 $removeparam=cid
 $removeparam=ctype
