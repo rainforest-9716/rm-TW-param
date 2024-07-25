@@ -1,2 +1,5 @@
+! Title: Remove element TW
+! Expires: 7 days
+
 ! kobo 購物 上橫幅
 www.rakuten.com.tw##.superbanner--pc.superbanner
