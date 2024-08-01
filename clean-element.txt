@@ -9,3 +9,5 @@ www.rakuten.com.tw##.superbanner--pc.superbanner
 
 ! biggo 右側直式橫幅
 ||img2.biggo.com/*biggo-banner.ap-south-1.linodeobjects.com/$image
+! biggo 左側邊欄
+biggo.com.tw##.scroll-content
