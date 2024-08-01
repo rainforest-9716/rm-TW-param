@@ -9,6 +9,7 @@
 ||momoshop.com.tw^$removeparam=ctype
 ||momoshop.com.tw^$removeparam=oid
 ||momoshop.com.tw^$removeparam=recomd_id
+||momoshop.com.tw^$removeparam=osm
 
 ! kobo 購物 https://www.rakuten.com.tw/shop/no1mobile/product/d011131/?scid=rafp-b118&utm_source=biggo&utm_medium=rafp-b118&utm_campaign=normal&gid=T3B96pABVIisQzBMUx6n&pr=420457e88ecc9146&ts=1721921000676&aff_click_id=11298aa9-59e3-4a35-aa24-b41c05ea2672
 ||rakuten.com.tw^$removeparam=gid
