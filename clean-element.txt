@@ -2,7 +2,7 @@
 ! Expires: 7 days
 ! Homepage: https://github.com/rainforest-9716/rm-TW-param
 
----
+!---------------------------------------------------------------!
 
 ! kobo 購物 上橫幅
 www.rakuten.com.tw##.superbanner--pc.superbanner
