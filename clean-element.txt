@@ -1,5 +1,11 @@
 ! Title: Remove element TW
 ! Expires: 7 days
+! Homepage: https://github.com/rainforest-9716/rm-TW-param
+
+---
 
 ! kobo 購物 上橫幅
 www.rakuten.com.tw##.superbanner--pc.superbanner
+
+! biggo 右側直式橫幅
+||img2.biggo.com/*biggo-banner.ap-south-1.linodeobjects.com/$image
